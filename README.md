@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Juan Camilo</h1>
 <h3 align="center">soy un programador apasionado</h3>
 
-- 💬 Ask me about **C++,Java,Python**
+- 💬 preguntame por **C++,Java,Python**
 
-- 📫 How to reach me **parraortizjuancamilo9@gmail.com**
+- 📫 contacto **parraortizjuancamilo9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
